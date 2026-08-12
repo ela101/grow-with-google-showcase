@@ -1,6 +1,6 @@
 # Equitable Mentorship Pairing Engine
 
-**Team:** Catalyst Strategists — Israel Babalola (Data Analytics), Eldad Berhanu (Cybersecurity), Lauren Rodriguez (IT Automation with Python), Gbenga Ayodeji (Advanced Data Analytics)
+**Team:** Catalyst Strategists: Israel Babalola (Data Analytics), Eldad Berhanu (Cybersecurity), Lauren Rodriguez (IT Automation with Python), Gbenga Ayodeji (Advanced Data Analytics)
 **UN SDG Goal:** Goal 5, Gender Equality
 
 ## What this project does
