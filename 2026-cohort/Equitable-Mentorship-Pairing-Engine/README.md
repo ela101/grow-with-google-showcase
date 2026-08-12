@@ -40,4 +40,4 @@ Gender in the mentorship dataset is inferred from first names by a model, not se
 
 ## Future ideas
 
-Build a small synthetic or short-survey dataset of real tech-specific matching attributes (skills, goals, seniority gap) — no public dataset currently records actual tech-industry mentor-match outcomes.
+Build a small synthetic or short-survey dataset of real tech-specific matching attributes (skills, goals, seniority gap) no public dataset currently records actual tech-industry mentor-match outcomes.
